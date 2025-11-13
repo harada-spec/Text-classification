@@ -33,8 +33,8 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
     [SST-2.zip](https://dl.fbaipublicfiles.com/glue/data/SST-2.zip)
 
 ### 3. 参考文献
-* **R. Socher et al.,** *"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank"*, Proceedings of the 2013 Conference on Empirical Methods for Natural Language Processing (**EMNLP 2013**).
-* **A. Wang et al.,** *"GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"*, **Published as a conference paper at ICLR 2019**.
+* **R. Socher et al.,** *"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank"*, Proceedings of the 2013 Conference on Empirical Methods for Natural Language Processing (EMNLP 2013).
+* **A. Wang et al.,** *"GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"*, Published as a conference paper at ICLR 2019.
 
 
 2. **ライブラリのインストール:**
@@ -47,4 +47,5 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
    python main.py
 
    ```
+
 
