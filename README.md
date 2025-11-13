@@ -6,7 +6,7 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
 自然言語処理（NLP）における基本的なデータ前処理、ベクトル化、モデル学習、評価の一連の流れを構築しました。
 
 ## 🛠 使用技術
-* Python 3.
+* Python 3.10.9
 * Pandas (データ前処理)
 * Scikit-learn (CountVectorizer, LogisticRegression)
 
@@ -22,10 +22,6 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
 ## 📊 データセットと出典 (Dataset & Credits)
 本プロジェクトでは、以下のデータセットを利用して学習を行いました。
 
-
-## 📊 データセットの出典 (Dataset & Citation)
-本プロジェクトでは、GLUEベンチマークに含まれる **SST-2** データセットを使用しました。
-
 ### 1. データセットの出典とリンク
 * **データセット名:** Stanford Sentiment Treebank (SST-2)
 * **起源サイト:** [Stanford NLP Group](https://nlp.stanford.edu/sentiment/)
@@ -37,9 +33,7 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
 * **直接ダウンロードURL (FAIR Server):**
     [SST-2.zip](https://dl.fbaipublicfiles.com/glue/data/SST-2.zip)
 
-### 3. 引用すべき論文
-以下の2つの論文を引用します。
-
+### 3. 参考文献
 * **R. Socher et al.,** *"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank"*, Proceedings of the 2013 Conference on Empirical Methods for Natural Language Processing (**EMNLP 2013**).
 * **A. Wang et al.,** *"GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"*, **Published as a conference paper at ICLR 2019**.
 
@@ -52,4 +46,5 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
 3. **実行:**
    ```bash
    python main.py
+
    ```
