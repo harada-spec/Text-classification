@@ -4,7 +4,6 @@ from torch.utils.data import TensorDataset, DataLoader
 import torch.nn as nn
 import torch
 import torch.optim as optim 
-import copy 
 import matplotlib.pyplot as plt 
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.model_selection import train_test_split
