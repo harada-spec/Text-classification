@@ -1,5 +1,5 @@
 # Text Classification with Scikit-learn, Pytorch
-ロジスティック回帰によるテキスト分類及びニューラルネットワークを用いた分類
+ロジスティック回帰及びニューラルネットワークを用いた分類
 
 ## 📖 概要
 Bag-of-Words (BoW) アプローチとロジスティック回帰、ニューラルネットワークを用いて、テキストデータを2値分類するコードを実装しました。
@@ -15,7 +15,7 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰、ニューラ�
 本プロジェクトは、**生成AI (Google Gemini)** を技術的な相談役（ペアプログラマー）として活用し、対話的に実装を進めました。
 
 * **活用プロセス:**
-    * 実装方針の策定と、ライブラリ（Scikit-learn, Pandas）の最適な使用方法の選定。
+    * 実装方針の策定と、ライブラリの最適な使用方法の選定。
     * コードの可読性を高めるためのリファクタリングと、型定義の確認。
     * エラー発生時の原因切り分けとデバッグ。
       
@@ -36,7 +36,7 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰、ニューラ�
 ### 3. 参考文献
 * **R. Socher et al.,** *"Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank"*, Proceedings of the 2013 Conference on Empirical Methods for Natural Language Processing (EMNLP 2013).
 * **A. Wang et al.,** *"GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"*, Published as a conference paper at ICLR 2019.
-
+* [言語処理100本ノック 2025 (Rev 1)](https://nlp100.github.io/)
 
 
 2. **ライブラリのインストール:**
@@ -54,6 +54,7 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰、ニューラ�
 ## 備考（Notes）　
 資料作成および文書校正には、生成AIを活用し、品質と効率の向上に努めました。
     
+
 
 
 
