@@ -1,5 +1,5 @@
-# Text Classification with Scikit-learn
-(ロジスティック回帰によるテキスト分類)
+# Text Classification with Scikit-learn, Pytorch
+ロジスティック回帰によるテキスト分類及びニューラルネットワークを用いた分類
 
 ## 📖 概要
 Bag-of-Words (BoW) アプローチとニューラルネットワークを用いて、テキストデータを2値分類するコードを実装しました。
@@ -7,8 +7,9 @@ Bag-of-Words (BoW) アプローチとニューラルネットワークを用い�
 
 ## 🛠 使用技術
 * Python 3.10.9
-* Pandas (データ前処理)
-* Scikit-learn (CountVectorizer, LogisticRegression)
+* Pandas
+* Scikit-learn
+* Matplotlib
 
 ## 🤖 開発スタイル (Development with AI)
 本プロジェクトは、**生成AI (Google Gemini)** を技術的な相談役（ペアプログラマー）として活用し、対話的に実装を進めました。
@@ -53,6 +54,7 @@ Bag-of-Words (BoW) アプローチとニューラルネットワークを用い�
 ## 備考（Notes）　
 資料作成および文書校正には、生成AIを活用し、品質と効率の向上に努めました。
     
+
 
 
 
