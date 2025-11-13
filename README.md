@@ -37,6 +37,7 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
 * **A. Wang et al.,** *"GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding"*, Published as a conference paper at ICLR 2019.
 
 
+
 2. **ライブラリのインストール:**
    ```bash
    pip install -r requirements.txt
@@ -47,5 +48,11 @@ Bag-of-Words (BoW) アプローチとロジスティック回帰を用いて、�
    python main.py
 
    ```
+
+   ---
+## 備考（Notes）　
+資料作成および文書校正には、生成AIを活用し、品質と効率の向上に努めました。
+    
+
 
 
